@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "vscode-icons",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Praktikum",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+    { "typescript.suggest.paths": true }
+    { "javascript.suggest.paths": false }
+    
+    
+   
+}   
